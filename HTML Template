@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Windows 10 Installation Training</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Windows 10 Installation Training</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="course.html">Course Details</a></li>
+                <li><a href="guide.html">Step-by-Step Guide</a></li>
+                <li><a href="troubleshooting.html">Troubleshooting Tips</a></li>
+                <li><a href="contact.html">About/Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Welcome to the Training</h2>
+            <p>Learn how to install Windows 10 in just a few easy steps. Start by navigating to the Course Details page.</p>
+            <a href="course.html" class="btn">Get Started</a>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Windows 10 Installation Training</p>
+    </footer>
+</body>
+</html>
